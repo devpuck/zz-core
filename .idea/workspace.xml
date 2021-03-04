@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87877857-c04a-4d14-a0e3-283f74f0dc74" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/../inventory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-api/src/main/java/com/wms/api/inventory/InventoryWarehouseBillQueryParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-api/src/main/java/com/wms/api/inventory/InventoryWarehouseBillSubQueryParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-api/src/main/java/com/wms/api/inventory/InventoryWarehouseBillSubVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-api/src/main/java/com/wms/api/inventory/InventoryWarehouseBillVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/controller/InventoryWarehouseBillController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/controller/InventoryWarehouseBillSubController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/mapper/inventory/InventoryWarehouseBillMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/mapper/inventory/InventoryWarehouseBillSubMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/model/bo/inventory/InventoryWarehouseBillBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/model/bo/inventory/InventoryWarehouseBillSubBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/model/entity/InventoryWarehouseBillEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/model/entity/InventoryWarehouseBillSubEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/service/InventoryWarehouseBillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/service/InventoryWarehouseBillSubService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/service/impl/InventoryWarehouseBillServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/java/com/wms/service/impl/InventoryWarehouseBillSubServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/resources/mapper/inventory/InventoryWarehouseBillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/wms-inventory-biz/src/main/resources/mapper/inventory/InventoryWarehouseBillSubMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/src/main/java/com/zz/KeystoneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystone/src/test/java/com/zz/KeystoneApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out-storage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out-storage/app-log/log_error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out-storage/app-log/log_total.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zz-sdk/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zz-sdk/src/main/java/com/zz/sdk/login/LoginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zz-sdk/src/test/java/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zz/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-api/src/main/java/com/wms/api/config/ConfigSpecOutWarehouseQueryParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-api/src/main/java/com/wms/api/config/ConfigSpecOutWarehouseQueryParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-api/src/main/java/com/wms/api/config/ConfigSpecOutWarehouseVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-api/src/main/java/com/wms/api/config/ConfigSpecOutWarehouseVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/controller/ConfigSpecOutWarehouseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/controller/ConfigSpecOutWarehouseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/mapper/config/ConfigSpecOutWarehouseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/mapper/config/ConfigSpecOutWarehouseMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/model/bo/config/ConfigSpecOutWarehouseBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/model/bo/config/ConfigSpecOutWarehouseBo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/model/entity/ConfigSpecOutWarehouseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/model/entity/ConfigSpecOutWarehouseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/ConfigSpecOutWarehouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/ConfigSpecOutWarehouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/OutAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/OutAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/impl/ConfigSpecOutWarehouseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/impl/ConfigSpecOutWarehouseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/impl/OutAccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/java/com/wms/service/impl/OutAccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/resources/mapper/config/ConfigSpecOutWarehouseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out-storage/wms-out-storage-biz/src/main/resources/mapper/config/ConfigSpecOutWarehouseMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Desktop/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mjbGtXQ79gFaal9TmrpQeTWQaT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zz/core/auth/shiro" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zz.core.web" />
+      <recent name="com.zz.core.dto" />
+      <recent name="com.zz.core.enums" />
+      <recent name="com.zz.core.auth" />
+      <recent name="com.zz.core.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zz/core/auth/shiro" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/zz/core/util" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/zz/core/db" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/zz/core/config" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/zz/core/service/impl" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87877857-c04a-4d14-a0e3-283f74f0dc74" name="Default Changelist" comment="" />
+      <created>1610009857231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610009857231</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1610196188068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610196188068</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1610196323870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610196323870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1610196401906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610196401906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1610196408262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610196408262</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1610699149852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610699149852</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1610700821677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610700821677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init">
+      <created>1614845995587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614845995587</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1888" y="133" key="#Project_Structure" timestamp="1614845859859">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1888" y="133" key="#Project_Structure/0.23.1440.838/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614845859859" />
+    <state x="336" y="24" key="#Project_Structure/0.23.1440.838@0.23.1440.838" timestamp="1610864598828" />
+    <state x="1888" y="24" key="#Project_Structure/0.23.1440.840/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614688934025" />
+    <state x="1888" y="24" key="#Project_Structure/0.23.1440.843/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610700142589" />
+    <state x="456" y="138" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1610808822281">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="456" y="138" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.838@0.23.1440.838" timestamp="1610808822281" />
+    <state x="590" y="348" key="Github.ShareDialog" timestamp="1610194013875">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="590" y="348" key="Github.ShareDialog/0.23.1440.838@0.23.1440.838" timestamp="1610194013875" />
+    <state x="484" y="149" key="Github.UntrackedFilesDialog" timestamp="1610194057557">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="484" y="149" key="Github.UntrackedFilesDialog/0.23.1440.838@0.23.1440.838" timestamp="1610194057557" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1614748587481">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1614086634162" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1614748587481" />
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1614688476337" />
+    <state width="1878" height="194" key="GridCell.Tab.0.bottom/0.23.1440.840/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614691678249" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.844@0.23.1440.844" timestamp="1610783166216" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1614748587480">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.center/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1614086634161" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1614748587480" />
+    <state width="1398" height="144" key="GridCell.Tab.0.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1614688476336" />
+    <state width="1878" height="194" key="GridCell.Tab.0.center/0.23.1440.840/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614691678247" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.844@0.23.1440.844" timestamp="1610783166215" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1614748587479">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.left/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1614086634160" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1614748587479" />
+    <state width="1398" height="144" key="GridCell.Tab.0.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1614688476335" />
+    <state width="1878" height="194" key="GridCell.Tab.0.left/0.23.1440.840/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614691678246" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.844@0.23.1440.844" timestamp="1610783166215" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1614748587480">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.right/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1614086634162" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1614748587480" />
+    <state width="1398" height="144" key="GridCell.Tab.0.right/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1614688476337" />
+    <state width="1878" height="194" key="GridCell.Tab.0.right/0.23.1440.840/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614691678248" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.844@0.23.1440.844" timestamp="1610783166216" />
+    <state x="460" y="174" key="Maven.ArtifactSearchDialog" timestamp="1614050379010">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="460" y="174" key="Maven.ArtifactSearchDialog/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1614050379010" />
+    <state x="2053" y="213" key="Maven.ArtifactSearchDialog/0.23.1440.838/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610010027219" />
+    <state x="1857" y="96" key="SettingsEditor" timestamp="1614848196990">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1857" y="96" key="SettingsEditor/0.23.1440.838/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614848196990" />
+    <state x="313" y="81" key="SettingsEditor/0.23.1440.838@0.23.1440.838" timestamp="1610808758572" />
+    <state x="1859" y="226" key="Vcs.Push.Dialog.v2" timestamp="1610700831584">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="314" y="184" key="Vcs.Push.Dialog.v2/0.23.1440.838@0.23.1440.838" timestamp="1610196368526" />
+    <state x="1859" y="226" key="Vcs.Push.Dialog.v2/0.23.1440.842/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610699161186" />
+    <state x="1859" y="226" key="Vcs.Push.Dialog.v2/0.23.1440.843/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610700831584" />
+    <state x="2187" y="292" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1614848171286">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2187" y="292" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1440.838/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614848171286" />
+    <state x="421" y="197" width="598" height="490" key="find.popup" timestamp="1614153468534">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="421" y="197" width="598" height="490" key="find.popup/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1614153468534" />
+    <state x="2212" y="447" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614847936408">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2212" y="447" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.838/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614847936408" />
+    <state x="113" y="105" key="new project wizard" timestamp="1610794081519">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="113" y="105" key="new project wizard/0.23.1440.838@0.23.1440.838" timestamp="1610794081519" />
+  </component>
+</project>
